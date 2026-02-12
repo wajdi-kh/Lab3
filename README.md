@@ -46,5 +46,5 @@ The following exploratory data analysis steps were applied:
 
 ## Files in this repository
 
-- ARTI308_Lab3_COVID.ipynb  
+- Lab3-COVID.ipynb  
 - IntegratedData.csv
