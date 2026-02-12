@@ -4,9 +4,7 @@ This repository contains my solution for Lab 3 in the ARTI308 Machine Learning c
 
 The objective of this lab is to apply Exploratory Data Analysis (EDA) techniques to a dataset of my choice.
 
----
-
-## Dataset Description
+# Dataset Description
 
 The dataset used in this lab is a COVID-19 daily records dataset at the county level in the United States.
 
@@ -24,7 +22,7 @@ The dataset contains the following main columns:
 - daily_deaths: New deaths reported on that day
 - day_of_week: Day of the week (encoded as a number)
 - is_weekend: Indicator showing whether the day is a weekend (1) or not (0)
-## EDA Tasks Performed
+# EDA Tasks Performed
 
 The following exploratory data analysis steps were applied:
 
@@ -38,7 +36,7 @@ The following exploratory data analysis steps were applied:
 - Correlation analysis among COVID-related numerical variables
 - Time-based analysis of daily cases
 
-## Files in this repository
+# Files in this repository
 
 - Lab3-COVID.ipynb  
-- IntegratedData.csv
+ IntegratedData.csv
