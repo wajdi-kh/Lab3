@@ -24,9 +24,6 @@ The dataset contains the following main columns:
 - daily_deaths: New deaths reported on that day
 - day_of_week: Day of the week (encoded as a number)
 - is_weekend: Indicator showing whether the day is a weekend (1) or not (0)
-
----
-
 ## EDA Tasks Performed
 
 The following exploratory data analysis steps were applied:
@@ -40,9 +37,6 @@ The following exploratory data analysis steps were applied:
 - Relationship analysis between daily cases and daily deaths
 - Correlation analysis among COVID-related numerical variables
 - Time-based analysis of daily cases
-- Noise reduction using a 7-day moving average
-
----
 
 ## Files in this repository
 
